@@ -29,6 +29,7 @@ As mentioned, you will get paid for each article/tutorial that you create. Moreo
 ## How do I get paid? 
 After your article/tutorial is approved we will send you the money via PayPal.
 
-The pricing is the following:
+The price depends on the quality of the article but we follow these criterias:
+- Less than 1000 words: 50 USD (+/- 50%)
+- More than 1000 words: 100 USD (+/- 50%)
 
-`ToDo: define the pricing`
