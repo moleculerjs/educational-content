@@ -1,6 +1,6 @@
 # Community Program for Moleculer ecosystem
 
-![Communication Overview diagram](assets\moleculer-education.svg)
+![Communication Overview diagram](assets/moleculer-education.svg)
 
 ## What is this?
 
