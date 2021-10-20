@@ -2,7 +2,7 @@
 name: Writing an article
 about: A guide helping you to write a new article
 title: ''
-labels: ''
+labels: 'looking for an author'
 assignees: ''
 
 ---
