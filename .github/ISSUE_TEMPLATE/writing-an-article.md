@@ -7,15 +7,17 @@ assignees: ''
 
 ---
 
+# This is a guide helping you to write an article
+
+Your article should have the following structure
+
 # Structure
 
 - Title
-- Introduction, (what people will learn in this article)
-- Goals, (what people will be able to achieve)
-- Prerequesites, (what people need to achieve the tutorial)
+- Introduction (what people will learn in this article)
+- Goals (what people will be able to achieve)
+- Prerequisites (what people need to achieve the tutorial)
 - Specify the version of Moleculer module
-- Step 1 - First thing to to
-- Step 2 - Second thing...
-- Step n - Last thing to do
-- Include code source (github)
+- Step-by-step instructions explaining how to achieve the desired goal
+- Link to the source code of your tutorial (github)
 - Conclusion
