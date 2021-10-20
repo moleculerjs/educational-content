@@ -24,11 +24,9 @@ It's simple:
 
 ## What do I get in return?
 
-As mentioned, you will get paid for each article/tutorial that you create. Moreover, by putting your knowledge in words you'll improve your communication skills and improve your [knowledge retention](https://en.wikipedia.org/wiki/Learning_pyramid). Don't forget that it's pretty cool to be know as the smart person that always available to help and share their expertise.
+As mentioned, you will get paid for each article/tutorial that you create. Moreover, by putting your knowledge in words you'll improve your communication skills and improve your [knowledge retention](https://en.wikipedia.org/wiki/Learning_pyramid). Don't forget that it's pretty cool to be know as the smart person that is always available to help and share their expertise.
 
 ## How do I get paid? 
-After your article/tutorial is approved we will send you the money via PayPal.
-
-The pricing is the following:
-
-`ToDo: define the pricing`
+After your article/tutorial is approved we will send you the money via PayPal. The price depends on the quality of the article but we follow the following criteria:
+- Less than 1000 words: 25 - 75 USD
+- More than 1000 words: 50 - 150 USD
