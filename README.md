@@ -16,7 +16,7 @@ It's simple:
 
 3. Be assigned to the topic that you've selected.
 
-4. Follow the [Guide](.github\ISSUE_TEMPLATE\writing-an-article.md) when writing the tutorial.
+4. Follow the [Guide](.github/ISSUE_TEMPLATE/writing-an-article.md) when writing the tutorial.
 
 5. Send us a draft for a review. We use [Google Docs](https://docs.google.com/)
 
