@@ -18,7 +18,7 @@ It's simple:
 
 4. Create an account at [Medium](https://medium.com/). After that we will add you to the [Moleculer organization](https://medium.com/moleculer) as a writer.
 
-5. Follow the [Guide](.github/ISSUE_TEMPLATE/writing-an-article.md) when writing the tutorial.
+5. Follow the [Guide](.github/ISSUE_TEMPLATE/writing-an-article.md) when writing the tutorial. Please note that at the moment we only accept articles written in English.
 
 6. Send us a draft for a review.
 
