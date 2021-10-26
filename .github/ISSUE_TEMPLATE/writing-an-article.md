@@ -2,7 +2,7 @@
 name: Suggest new topic
 about: Suggest a new topic for an article or a tutorial
 title: ''
-labels: 'looking for an author'
+labels: ''
 assignees: ''
 
 ---
