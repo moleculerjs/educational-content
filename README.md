@@ -20,7 +20,7 @@ It's simple:
 
 5. Follow the [Guide](.github/ISSUE_TEMPLATE/writing-an-article.md) when writing the tutorial. Please note that at the moment we only accept articles written in English.
 
-6. Send us a draft for a review.
+6. Send us a draft for a review. Please note that we are looking for **professional grade** articles, simple step-by-step guides are not covered by the community program and will be promptly rejected.
 
 7. Wait until the approval and get paid :moneybag:
 
